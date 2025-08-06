@@ -6,8 +6,8 @@ import json
 
 # Parameters
 file_path = "output.wav"
-segment_length = 30  # seconds
-model = whisper.load_model("medium")
+segment_length = 10  # seconds
+model = whisper.load_model("medium")  # Load the Whisper model
 
 # Get duration of the audio file
 with contextlib.closing(wave.open(file_path, 'r')) as f:

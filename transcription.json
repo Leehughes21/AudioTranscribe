@@ -1,18 +1,50 @@
 [
   {
     "speaker": "Speaker 1",
-    "text": "Thank you for calling Martha's Flowers Towne Assisting. I'd like to order flowers and I think you have what I'm looking for. I'd be happy to take care of your order. May I have your name please? Randall Thomas. Randall Thomas. Can you spell that for me? Randall. R-A-N-E-L-L. Randall. Thank you for that information Randall. May I have your home or office number and area code?"
+    "text": "Thank you for calling Marcus Flowers Town Assisting."
   },
   {
     "speaker": "Speaker 2",
-    "text": "first. There is code 409, then 866-5088. That's 409-866-5088. Do you have the fax number or email address? My email is randall.thomas at gmail.com. Randall.thomas at gmail.com. Do you have your shipping address? 6800. Okay."
+    "text": "I'd be happy to take care of your order may have your name please. Randall Thomas. Randall Thomas can you spell that for me? Randall. R. R. R. R. R. R. R. R. R. R. R. R. R. R. R. R. R. R. R. R. R."
   },
   {
     "speaker": "Speaker 1",
-    "text": "Texas zip code is 77706. Gladys Avenue Beaumont, Texas zip code 77706. Thank you for the information. What product are you interested in purchasing? Red roses, probably a dozen. One dozen of red roses, do you want long-term? Sure. All right, Randall, let me process the order. One moment please. Okay. Randall, we are ordering one dozen."
+    "text": "Thank you for that information, Randall. May I have your home or office number area code?"
   },
   {
     "speaker": "Speaker 2",
-    "text": "and long-stent red roses. The total amount of your order is $40. And it will be shipped to your address within 24 hours. I was thinking of delivering my roses again. Within 24 hours. Hey, no problem. Is there anything else I can help you with? That's all for now, thanks. No problem, Ray. And I will thank you for calling Marcus Flores. Have a nice day."
+    "text": "First, there's a photo that was in front of 866-5088. That's 409-866-5088."
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "088 do you have a fax number or email address? At email.com"
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Randall.Thomas at gmail.com and have your shipping address. 6800. Okay. Badditt Avenue."
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Texas zip code is 77706. Gladys Avenue, Bowmont, Texas, zip code 77706."
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Thank you for the information. What product are you interested in purchasing? Red roses. Probably a dozen. One dozen of red roses. Do you want long-terms?"
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Sure. All right. Randall, let me process the order. One moment please. Okay. Randall, we are ordering one dust."
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "and long-stent red roses. The total amount of your order is $40. And it will be shipped to your address within 24 hours. I was thinking of delivering my roses again."
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "24 hours. No problem. Is there anything else I can help you with? That's all for now, thanks. No problem, Ray. Thank you for calling Marcus, Florida."
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "have a nice day."
   }
 ]
